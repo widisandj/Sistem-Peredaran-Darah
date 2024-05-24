@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="Peredaran Darah" />
+              <option name="title_text" value="Skripsi Revisi" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1234,12 +1234,14 @@
         <slidelink slideid="_player.5Z2XCx6Hcws" displaytext="Pertanyaan darah" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5Z2XCx6Hcws.5VN6lQtL919" displaytext="Pada gambar disamping bagian manakah yang menunjukan plasma darah ? " expand="false" type="slide" />
+            <slidelink slideid="_player.5Z2XCx6Hcws.6btrpQa6h2E" displaytext="Petunjuk Hotspot" expand="false" type="slide" />
             <slidelink slideid="_player.5Z2XCx6Hcws.5vW6MnjdXjN" displaytext="Apa saja fungsi dari darah " expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6p7t8lqNAf4" displaytext="Pertanyaan jantung" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6p7t8lqNAf4.6niYnPKneLZ" displaytext="Gambar disamping termasuk peredaran darah apa?" expand="false" type="slide" />
+            <slidelink slideid="_player.6p7t8lqNAf4.5ac4e9O95cC" displaytext="Petunjuk Hotspot" expand="false" type="slide" />
             <slidelink slideid="_player.6p7t8lqNAf4.5WderjbW5Vd" displaytext="Baimanakah urutan peredaran darah besar?" expand="false" type="slide" />
           </links>
         </slidelink>
