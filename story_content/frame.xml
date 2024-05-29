@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="Skripsi Revisi" />
+              <option name="title_text" value="Skripsi Fix" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -35,7 +35,7 @@
           </optionlist>
           <option name="time_enabled" value="false">
             <options>
-              <option name="time_format" value="" />
+              <option name="time_format" value="elapsed" />
             </options>
           </option>
           <option name="video_enabled" value="false">
@@ -1188,24 +1188,27 @@
         </slidelink>
         <slidelink slideid="_player.6lmGwc2FBtT" displaytext="Selamat Datang" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6lmGwc2FBtT.6UU77XIwUy0" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6lmGwc2FBtT.6UU77XIwUy0" displaytext="Selamat Datang" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.5q1l6bxOas2" displaytext="Menu" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5q1l6bxOas2.6ecTPsZ42UC" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5q1l6bxOas2.6ecTPsZ42UC" displaytext="Menu" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.5efnGdYWvIB" displaytext="Darah" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5efnGdYWvIB.5vFbUHkUs1t" displaytext="pengertian darah" expand="false" type="slide" />
             <slidelink slideid="_player.5efnGdYWvIB.6pDH4bdoICa" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5efnGdYWvIB.6HN7Rh7ZDUh" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5efnGdYWvIB.6HN7Rh7ZDUh" displaytext="Komponen Darah" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6hgiSXNtcRY" displaytext="Petunjuk" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6hgiSXNtcRY.6lyPGDiDgXa" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6hgiSXNtcRY.6pWqOCJOFGf" displaytext="Petunjuk Icon" expand="false" type="slide" />
+            <slidelink slideid="_player.6hgiSXNtcRY.5vCXbQBFAKt" displaytext="Petunjuk Miring" expand="false" type="slide" />
+            <slidelink slideid="_player.6hgiSXNtcRY.6foeJCRn188" displaytext="Petunjuk materi" expand="false" type="slide" />
+            <slidelink slideid="_player.6hgiSXNtcRY.6DtgnHhhdxg" displaytext="Petunjuk Suara" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.5xAUc4LMODG" displaytext="Pembuluh darah" expand="true" type="slide">
@@ -1216,9 +1219,9 @@
         </slidelink>
         <slidelink slideid="_player.6GOsmzdJORW" displaytext="Jantung" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6GOsmzdJORW.5rGThZ76Ahx" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6GOsmzdJORW.5hvFYb7XnD9" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6GOsmzdJORW.6YVkiHXanHG" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6GOsmzdJORW.5rGThZ76Ahx" displaytext="Jantung" expand="false" type="slide" />
+            <slidelink slideid="_player.6GOsmzdJORW.5hvFYb7XnD9" displaytext="Ruang jantung" expand="false" type="slide" />
+            <slidelink slideid="_player.6GOsmzdJORW.6YVkiHXanHG" displaytext="Peredaran darah" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6pMBqJFGm5U" displaytext="Materi" expand="true" type="slide">
@@ -1248,6 +1251,26 @@
         <slidelink slideid="_player.6PHzcmNYWph" displaytext="pertanyaan pembuluh darah" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6PHzcmNYWph.6IdzJeBxBHq" displaytext="Dimanakah letak dari pembuluh vena?" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6ZnJtLZeF9O" displaytext="Profil" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6ZnJtLZeF9O.5i8I7hcMASn" displaytext="Profil" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.65OgmQhsAkV" displaytext="Sumber" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.65OgmQhsAkV.6QlOhAcv24p" displaytext="Sumber" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5zt85duBUBc" displaytext="Evaluasi" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5zt85duBUBc.6Hs7S7cCj6N" displaytext="Gambar disamping termasuk peredaran darah apa?" expand="false" type="slide" />
+            <slidelink slideid="_player.5zt85duBUBc.5zCDEfB6bIl" displaytext="Baimanakah urutan peredaran darah kecil?" expand="false" type="slide" />
+            <slidelink slideid="_player.5zt85duBUBc.6oickqiUtsw" displaytext="Pembuluh nadi yang paling besar adalah " expand="false" type="slide" />
+            <slidelink slideid="_player.5zt85duBUBc.6HsL9Y2ivm6" displaytext="Sistem peredaran darah manusia hanya terdapat satu cara yaitu peredaran darah dari jantung ke seluruh tubuh" expand="false" type="slide" />
+            <slidelink slideid="_player.5zt85duBUBc.5iRcAjkHD4G" displaytext="Dimanakah letak dari pembuluh Kapiler?" expand="false" type="slide" />
+            <slidelink slideid="_player.5zt85duBUBc.6GwdiA3chLM" displaytext="Cocokan fungsi dan bagian organ pada bawah ini" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
